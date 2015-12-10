@@ -1,8 +1,0 @@
-TextContent = 
-{
-	ZilchScriptBuilder = 
-	{
-		string Name = "ColorChanger",
-		uint64 ResourceId = 56a44e0938b74fc1,
-	},
-},
